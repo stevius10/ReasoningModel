@@ -1,10 +1,7 @@
-
 # Test Scenarios
 
 ## Overview
 This document outlines the test cases for validating the ReasoningModel. The model’s core components, including iterative improvement, memory management, and causal mapping, are tested to ensure that the framework functions as intended.
-
----
 
 ## Test Cases
 
