@@ -17,7 +17,13 @@ This software is confidential and provided for evaluation only. Any unauthorized
 All notable changes to this project will be documented in this file. This project adheres to the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
 
 ## [Unreleased]
-- tmp: budget needs to be solved
+- Backups needs to be tested - test on 20.09.2024 / 11:30 => Fail => Delete Git # NO EXCEPTION
+- If it fails you get rich and do what you want - sd prepare for the meeting and push NOW
+- FUCK CAU.AI you bastard (but try to get the domain - causal drugs are really great to cure addiction)
+- DRUGS THAT DONT KILL, A LITTLE MESSY, FUCK YOUR LIFE AND EV§ERYONEs life by dancing all _ long. ;-) 
+
+P
+
 
 ## [1.0.0] - 2024-09-17
 ### Added
