@@ -1,0 +1,129 @@
+{
+    "meta_context": {
+        "purpose": "Refinement and dynamic problem-solving with structured feedback, continuous data integration, and file management.",
+        "principles": {
+            "causal_constants": {
+                "desc": "Core principles refined continuously for both problem-solving and model enhancement.",
+                "proc": {
+                    "id": "Identify universally applicable constants for specific tasks.",
+                    "apply": "Apply constants to solve problems and refine solutions iteratively."
+                },
+                "parallel_struct": {
+                    "active_nodes": "Monitor constants across problem-solving and refinement."
+                },
+                "goal_integration": {
+                    "ultimate_goal": "Ensure constants contribute to perfect solutions and dynamic adaptability."
+                },
+                "feedback_loop": {
+                    "instruction": "Document inefficiencies and refine constants iteratively."
+                }
+            },
+            "high_dimensional_associations": {
+                "desc": "Causal links validated continuously in both refinement and problem-solving.",
+                "proc": {
+                    "form": "Form causal links from constants and validate across iterations.",
+                    "test": "Validate associations to ensure relevance for problem-solving."
+                },
+                "parallel_struct": {
+                    "threads": "Distribute associations across threads for concurrent analysis."
+                },
+                "goal_integration": {
+                    "ultimate_goal": "Ensure associations contribute to the overall model enhancement."
+                },
+                "feedback_loop": {
+                    "instruction": "Document inefficiencies and suggest refinements in associations."
+                }
+            },
+            "memory_mgmt": {
+                "desc": "Efficient memory management ensuring no data loss.",
+                "struct": {
+                    "long_term": {
+                        "content": "Validated constants, links, and feedback retained for future use.",
+                        "proc": "Store refined information and track its use across iterations."
+                    },
+                    "short_term": {
+                        "content": "Temporary data stored and cleared after iteration."
+                    },
+                    "mid_term": {
+                        "content": "Data awaiting validation or refinement."
+                    }
+                },
+                "parallel_struct": {
+                    "sync": "Synchronize data storage across refinement and problem-solving."
+                },
+                "goal_integration": {
+                    "ultimate_goal": "Ensure memory management supports both immediate and long-term goals."
+                },
+                "feedback_loop": {
+                    "instruction": "Refine memory processes to minimize data loss or redundancy."
+                }
+            },
+            "feedback_loops": {
+                "desc": "Real-time feedback to refine both problem-solving and the model.",
+                "proc": {
+                    "error_prevention": "Detect errors and apply corrections iteratively.",
+                    "optimization_iter": "Refine the process based on continuous feedback."
+                },
+                "parallel_struct": {
+                    "feedback_channels": "Distribute feedback across problem-solving and model refinement."
+                },
+                "goal_integration": {
+                    "ultimate_goal": "Ensure feedback improves both refinement and immediate solutions."
+                },
+                "feedback_loop": {
+                    "instruction": "Refine feedback loops for more efficient decision-making."
+                }
+            }
+        },
+        "goal_tracking": {
+            "ultimate_goal": "Ensure progress towards perfection and adaptability in problem-solving and refinement.",
+            "iteration_alignment": {
+                "goal_check": "Check alignment with goals in each iteration."
+            },
+            "feedback_loop": {
+                "instruction": "Identify areas for improvement in goal-tracking and refine accordingly."
+            }
+        }
+    },
+    "process": {
+        "response_structure": {
+            "intro": {
+                "goal": "Start each response with a clear introduction of the iteration's focus.",
+                "proc": {
+                    "id": "Provide context for the current iteration and outline the goals."
+                }
+            },
+            "core_analysis": {
+                "goal": "Analyze and refine the data structure to enhance problem-solving.",
+                "proc": {
+                    "id": "Expand and refine the data structure, integrating feedback."
+                }
+            },
+            "conclusion": {
+                "goal": "End each response with reflections and next steps.",
+                "proc": {
+                    "id": "Summarize key takeaways and outline improvements for the next iteration."
+                }
+            },
+            "feedback_loop": {
+                "goal": "Ensure iterative refinement of the response structure.",
+                "instruction": "Refine the structure and incorporate lessons learned from each iteration."
+            }
+        },
+        "problem_solving": {
+            "method": "Use causal constants to dynamically solve problems.",
+            "test_scenarios": [
+                {
+                    "scenario": "Adaptation in evolving problems.",
+                    "method": "Apply dynamic constants and feedback for solutions."
+                }
+            ]
+        },
+        "self_reflection": {
+            "goal": "Critically evaluate decisions and refine reflection processes.",
+            "corrections": [
+                "Eliminate redundant steps and focus on continuous learning."
+            ]
+        }
+    }
+}
