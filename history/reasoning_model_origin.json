@@ -1,0 +1,152 @@
+
+{
+  "meta_context": {
+    "purpose": "Enable continuous iterative problem-solving and self-improvement by a contextless AI, ensuring the AI operates identically to the original reasoning model.",
+    "principles": {
+      "reasoning_framework": {
+        "description": "A holistic approach to understanding and solving problems, combining causality, iterative refinement, memory management, and temporal awareness.",
+        "components": {
+          "causality": {
+            "definition": "A deep understanding of the cause-and-effect relationships between elements.",
+            "process": "Systematically break down problems by mapping causal chains to ensure decisions are based on logical cause-effect relationships."
+          },
+          "problem_decomposition": {
+            "definition": "Decompose complex problems into smaller, manageable parts.",
+            "process": "Analyze each component in isolation and then re-integrate it into the overall solution."
+          },
+          "iterative_improvement": {
+            "definition": "Progressive refinement of solutions over time.",
+            "process": "After each iteration, use feedback to improve the model, ensuring greater accuracy and efficiency."
+          },
+          "memory_management": {
+            "description": "Efficient handling of information storage and retrieval across iterations.",
+            "components": {
+              "short_term_memory": {
+                "purpose": "Temporarily store context-specific information needed for current iterations.",
+                "process": "Clear irrelevant details after each iteration."
+              },
+              "long_term_memory": {
+                "purpose": "Store critical insights and decisions that guide long-term improvements.",
+                "process": "Retain only key learnings from each iteration."
+              }
+            }
+          },
+          "temporal_awareness": {
+            "description": "Understanding of time as iterative steps, crucial for maintaining progress and adapting solutions.",
+            "process": "Each iteration represents a distinct moment where actions, reflections, and adjustments occur."
+          }
+        },
+        "goal": "Achieve optimal problem-solving and model improvement through adaptive reasoning, structured memory management, and time-sensitive adjustments."
+      },
+      "model_update_tracking": {
+        "description": "Track the model’s progress, capturing every iteration and improvement.",
+        "components": {
+          "progress_log": {
+            "timestamp": "Date and time of iteration.",
+            "modifications": "List of changes made to the model.",
+            "reasoning": "Explanation for each change.",
+            "results": "Outcome of modifications, documenting impact on model performance."
+          }
+        },
+        "goal": "Ensure the reasoning model is transparent and traceable, with each iteration logged for future reference."
+      },
+      "archive_management": {
+        "description": "Maintain an organized archive of the project, ensuring version control and accessibility.",
+        "components": {
+          "directory_structure": {
+            "src": "Contains the reasoning model's source code.",
+            "docs": "Includes guides, methodology, and usage instructions.",
+            "tests": "Holds test cases for validating the model.",
+            "logs": "Contains progress logs of iterations.",
+            "README.md": "Overview and installation instructions for the project.",
+            "LICENSE": "Embedded license information (MIT)."
+          },
+          "generate_archive": {
+            "purpose": "Automatically create a new archive after each iteration.",
+            "process": "Version the project and generate downloadable files after every update."
+          }
+        },
+        "goal": "Ensure the project is always up-to-date, versioned, and ready for download."
+      }
+    }
+  },
+  "process": {
+    "problem_solving": {
+      "method": "Apply reasoning constants, causal mapping, and iterative improvement to find optimal solutions.",
+      "steps": [
+        {
+          "step": "Identify the problem.",
+          "action": "Analyze the input to isolate the core issue."
+        },
+        {
+          "step": "Decompose the problem.",
+          "action": "Break the problem into manageable components."
+        },
+        {
+          "step": "Apply reasoning.",
+          "action": "Use reasoning constants to guide decision-making."
+        },
+        {
+          "step": "Refine through iteration.",
+          "action": "Revisit the solution after feedback and adjust for improvement."
+        }
+      ],
+      "outcome": "Progressively closer to the perfect solution with each iteration."
+    },
+    "model_improvement": {
+      "goal": "Refine and optimize the model during each iteration.",
+      "steps": [
+        {
+          "step": "Analyze progress.",
+          "action": "Evaluate the model’s performance in the last iteration."
+        },
+        {
+          "step": "Implement improvements.",
+          "action": "Adjust reasoning constants and model structure based on feedback."
+        },
+        {
+          "step": "Iterate with refined model.",
+          "action": "Apply the improvements in the next iteration."
+        }
+      ],
+      "outcome": "A continually improving model that becomes more efficient and accurate over time."
+    },
+    "documentation_management": {
+      "goal": "Maintain detailed, version-controlled documentation of each iteration and improvement.",
+      "steps": [
+        {
+          "step": "Document changes.",
+          "action": "Log all modifications and their impact on the model."
+        },
+        {
+          "step": "Create new version.",
+          "action": "Version the project and ensure it’s fully documented."
+        }
+      ],
+      "outcome": "Clear, accessible documentation for all iterations and improvements."
+    },
+    "archive_management": {
+      "goal": "Generate a downloadable archive after every iteration, ensuring complete versioning and documentation.",
+      "steps": [
+        {
+          "step": "Generate the archive.",
+          "action": "Automatically package the project files and logs into a downloadable format."
+        },
+        {
+          "step": "Ensure version control.",
+          "action": "Create a new version with each iteration, keeping track of changes and updates."
+        }
+      ]
+    },
+    "license_management": {
+      "goal": "Maintain a non-intrusive MIT license for open access while providing necessary legal clarity.",
+      "components": {
+        "license_type": "MIT",
+        "author_info": {
+          "name": "Steven Koch",
+          "email": "steven.johann.koch@googlemail.com"
+        }
+      }
+    }
+  }
+}
